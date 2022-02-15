@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Notes
+optional_text: '![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture
+  9: International Regulations and Supply Chains: The Case of Mercury (PDF - 6.0MB)](resources/mitesd_s43s14_lecture9)'
+parent_title: Lecture Notes and Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 9: International Regulations and Supply Chains: The Case of Mercury'
 uid: 05ef33a8-0891-f06a-1586-838c1859737e
 video_files:
   archive_url: https://archive.org/download/MITESD.S43S14/MITESD_S43S14_ses09_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/esd-s43-green-supply-chain-management-spring-2014/1f3f17c596965c0ab66d24369b653401_HMM2PKQ-VDQ.vtt
+  video_captions_file: /courses/esd-s43-green-supply-chain-management-spring-2014/1f3f17c596965c0ab66d24369b653401_HMM2PKQ-VDQ.vtt
   video_thumbnail_file: https://img.youtube.com/vi/HMM2PKQ-VDQ/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/esd-s43-green-supply-chain-management-spring-2014/f3eafed1b839ac29d634664b79abcf46_HMM2PKQ-VDQ.pdf
+  video_transcript_file: /courses/esd-s43-green-supply-chain-management-spring-2014/f3eafed1b839ac29d634664b79abcf46_HMM2PKQ-VDQ.pdf
 video_metadata:
   youtube_id: HMM2PKQ-VDQ
 ---

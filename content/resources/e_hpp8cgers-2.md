@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-s43-green-supply-chain-management-spring-2014/75a6df7f16de5b4f88519772f8bc52d6_e_Hpp8cgeRs.vtt
+file: /media/courses/esd-s43-green-supply-chain-management-spring-2014/75a6df7f16de5b4f88519772f8bc52d6_e_Hpp8cgeRs.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 75a6df7f-16de-5b4f-8851-9772f8bc52d6

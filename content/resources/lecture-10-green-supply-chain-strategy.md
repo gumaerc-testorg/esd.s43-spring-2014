@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Notes and Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 10: Green Supply Chain Strategy'
 uid: 3047ccf8-3614-c058-c49c-e71d7f40b7ec
 video_files:
   archive_url: https://archive.org/download/MITESD.S43S14/MITESD_S43S14_ses10_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/esd-s43-green-supply-chain-management-spring-2014/ca89efd80f99531dacd56aa4c088c476_A0owfH3UERI.vtt
+  video_captions_file: /courses/esd-s43-green-supply-chain-management-spring-2014/ca89efd80f99531dacd56aa4c088c476_A0owfH3UERI.vtt
   video_thumbnail_file: https://img.youtube.com/vi/A0owfH3UERI/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/esd-s43-green-supply-chain-management-spring-2014/dcc9de26326db7efda5019ad820da6a2_A0owfH3UERI.pdf
+  video_transcript_file: /courses/esd-s43-green-supply-chain-management-spring-2014/dcc9de26326db7efda5019ad820da6a2_A0owfH3UERI.pdf
 video_metadata:
   youtube_id: A0owfH3UERI
 ---

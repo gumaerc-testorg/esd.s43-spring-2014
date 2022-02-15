@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: f460ad83-cf06-7078-07fe-51b682e7205f
 ---
@@ -169,7 +171,7 @@ Homework 5 (see [Assignments]({{< baseurl >}}/pages/assignments))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Invited Speaker: Martin Wolf – 7th Generation
+Invited Speaker: Martin Wolf – 7{{< sup "th" >}} Generation
 {{< tdclose >}}
 {{< tdopen >}}
 Project Deliverable 2

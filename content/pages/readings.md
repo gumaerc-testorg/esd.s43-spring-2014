@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 6e72c902-52cf-7de8-2298-6b75befbd9af
 ---
@@ -121,7 +124,7 @@ Life Cycle Analysis (A. Craig)
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Invited Speaker: Martin Wolf – 7th Generation
+Invited Speaker: Martin Wolf – 7{{< sup "th" >}} Generation
 {{< tdclose >}}
 {{< tdopen >}}
  

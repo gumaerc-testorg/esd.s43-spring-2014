@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 54f49a17-2141-9464-a334-f1705b2162fd
 ---
@@ -94,20 +96,6 @@ ESD.S43 can be applied toward a [MIT Sloan School of Management Sustainability C
 ### Offered
 
 Every fall and spring semester.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Four rows of tables with padded chairs on wheels. A/V equipment in the rear of the room and a chalkboard on the sidewall.]({{< resource_file ca3c0f01-5987-12a4-8bfc-e57472554dd3 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    Class sessions were held in a room featuring moveable tables and chairs. AV equipment was available. (Image courtesy of MIT Office of Digital Learning.)
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

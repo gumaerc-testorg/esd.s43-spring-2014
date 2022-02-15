@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Team Projects
 uid: df489554-62b6-fb51-1d6a-7c27cd4c001a
 ---
