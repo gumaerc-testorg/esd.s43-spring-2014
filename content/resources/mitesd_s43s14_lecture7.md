@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture Notes and Videos
 parent_type: CourseSection
+parent_uid: 5b59a8f9-cd1d-fd8b-0446-00eaae7b3fbb
 resourcetype: Document
 title: 'Lecture 7: Multi-stakeholder Engagements'
 uid: 9c5bd434-123e-06d2-8a06-f555cbe79108

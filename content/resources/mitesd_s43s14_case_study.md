@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 6e72c902-52cf-7de8-2298-6b75befbd9af
 resourcetype: Document
 title: WidgetCo - Carbon Footprint Case Study
 uid: 19e9342c-69cb-b506-85f6-021f1c2fb733

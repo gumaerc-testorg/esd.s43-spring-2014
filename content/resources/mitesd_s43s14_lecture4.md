@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture Notes and Videos
 parent_type: CourseSection
+parent_uid: 5b59a8f9-cd1d-fd8b-0446-00eaae7b3fbb
 resourcetype: Document
 title: 'Lecture 4: Carbon Footprinting'
 uid: fbbfd211-bd01-c8b4-dd70-232deb8209eb

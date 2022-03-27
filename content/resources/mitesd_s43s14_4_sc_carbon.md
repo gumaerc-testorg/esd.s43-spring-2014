@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 38b73bdf-750a-02ca-9ebb-966719746971
 resourcetype: Other
 title: MITESD_S43S14_4_SC_Carbon.xlsx
 uid: 2bd4400d-f52d-d22a-7f89-ad2f0b6462f9

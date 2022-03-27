@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture Notes and Videos
 parent_type: CourseSection
+parent_uid: 5b59a8f9-cd1d-fd8b-0446-00eaae7b3fbb
 resourcetype: Document
 title: 'Lecture 1: Introduction to Green Supply Chain Management'
 uid: 286574e7-e1c5-4d0d-d964-811b176d94db

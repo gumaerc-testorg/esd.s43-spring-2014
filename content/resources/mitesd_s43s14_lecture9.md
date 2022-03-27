@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture Notes and Videos
 parent_type: CourseSection
+parent_uid: 5b59a8f9-cd1d-fd8b-0446-00eaae7b3fbb
 resourcetype: Document
 title: 'Lecture 9: International Regulations and Supply Chains: The Case of Mercury'
 uid: f1aec9df-7c5b-1333-873e-87a9953f5def
