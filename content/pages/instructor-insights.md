@@ -1,27 +1,27 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 54f49a17-2141-9464-a334-f1705b2162fd
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _ESD.S43 Green Supply Chain Management_ as it was taught by Dr. Edgar Blanco, Dr. Alexis Bateman, and Dr. Anthony Craig in Fall 2014.
 
 This half-semester graduate course in Green Supply Chain Management (ESD.S43) focuses on the fundamental strategies, tools and techniques required to analyze and design environmentally sustainable supply chain systems. Students work on course-long team projects that critically evaluate the environmental supply chain strategy of an industry or a publicly traded company.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
-*   Learn about green supply chain management from multiple perspectives.
-*   Gain an awareness of the different stakeholders involved in green supply chain management.
-*   Engage in informed conversations about green supply chain management, using the vocabulary and tools central to this domain.
+- Learn about green supply chain management from multiple perspectives.
+- Gain an awareness of the different stakeholders involved in green supply chain management.
+- Engage in informed conversations about green supply chain management, using the vocabulary and tools central to this domain.
 
 ### Possibilities for Further Study/Careers
 
@@ -29,12 +29,11 @@ This course was designed to prepare students to embed sustainability practices i
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Interview
 
 {{< quote "One strategy I use for engaging students in classroom discussions is to ask provocative questions." "—Edgar Blanco" >}}
 
-_Below, Edgar Blanco describes various aspects of how he taught _ESD.S43 Green Supply Chain Management_._
+_Below, Edgar Blanco describes various aspects of how he taught_ ESD.S43 Green Supply Chain Management.
 
 ### Collaborating with Invited Speakers
 
@@ -46,7 +45,7 @@ Providing this kind of support for guest speakers helps ensure that their sessio
 
 ### Engaging Students in Classroom Discussions
 
-ESD.S43 is a discussion-based course. One strategy I use for engaging students in classroom discussions is to ask provocative questions. I also make claims that force students to react and to emerge from their comfort zones. For example, in response to a student’s comment, I might say something like, “So what you mean is this...” and then frame his or her comment in an extreme way. This always gets students talking! It stirs up their passions.
+ESD.S43 is a discussion-based course. One strategy I use for engaging students in classroom discussions is to ask provocative questions. I also make claims that force students to react and to emerge from their comfort zones. For example, in response to a student’s comment, I might say something like, “So what you mean is this…” and then frame his or her comment in an extreme way. This always gets students talking! It stirs up their passions.
 
 It’s also my personality to bring a lot of energy to the classroom: I move my hands, I walk around the classroom, and I look at students very intently when they speak. This makes the discussions personal and engaging.
 
@@ -82,8 +81,7 @@ There are two important changes that are going to happen in this class. One is t
 
 I am considering having all the students examine one company—or perhaps different companies, but within one sector. I’m also considering providing students with a choice between two sectors, such as consumer apparel and oil. I’m considering these changes because over time I’ve noticed that companies move at different speeds when it comes to sustainability. Some companies offer bigger opportunities for learning. I want students to spend more time thinking about these particular companies. I want to make sure a good mix of companies that are making great strides and those that are moving more slowly are both represented in the class.
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -99,8 +97,7 @@ Every fall and spring semester.
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The students' grades were based on the following activities:
 
@@ -109,10 +106,11 @@ The students' grades were based on the following activities:
 - 20% Case study and assignments
 - 15% Class participation
 
-Student Information
--------------------
+## Student Information
 
-![19 students took this course when it was offered in Fall 2014.]({{< resource_file 391e0a94-1422-048c-e7c7-3f8544189a32 >}})
+### Enrollment
+
+19 students
 
 ### Breakdown by Year
 
@@ -132,20 +130,17 @@ The ideal class size is 20-30 students. With this number of students, all studen
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 6 hours on the course, roughly divided as follows:
 
-In Class
---------
+### In Class
 
-*   Met 2 times per week for 1.5 hours per session; 13 sessions total
-*   1/3 of the class sessions were dedicated to in-depth discussions about course readings
-*   1/3 of the class sessions featured guest speakers from academia and industry
-*   1/3 of the class sessions were reserved for intermittent presentations of students’ team project findings; students made these presentations approximately every 2 weeks.
+- Met 2 times per week for 1.5 hours per session; 13 sessions total
+- 1/3 of the class sessions were dedicated to in-depth discussions about course readings
+- 1/3 of the class sessions featured guest speakers from academia and industry
+- 1/3 of the class sessions were reserved for intermittent presentations of students’ team project findings; students made these presentations approximately every 2 weeks.
 
-Out of Class
-------------
+### Out of Class
 
 Students completed course readings, prepared presentations, and worked on their critical analysis papers.
