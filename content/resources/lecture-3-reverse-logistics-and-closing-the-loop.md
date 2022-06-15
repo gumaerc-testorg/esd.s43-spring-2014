@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Notes and Videos
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Student discussed two case-studies and learned about reverse logistics and closed-loop supply chain. Students also shared their ideas for the final project and received comments and feedback from the instructors.
 
 **Instructor:** Dr. Edgar Blanco
+
+
+

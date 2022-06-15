@@ -4,9 +4,10 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture
-  9: International Regulations and Supply Chains: The Case of Mercury (PDF - 6.0MB)](resources/mitesd_s43s14_lecture9)'
+optional_text: '[Lecture 9: International Regulations and Supply Chains: The Case
+  of Mercury (PDF - 6.0MB)](/courses/esd-s43-green-supply-chain-management-spring-2014/resources/mitesd_s43s14_lecture9)'
 parent_title: Lecture Notes and Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Professor Noelle Selin from MIT was invited talk on the case-study of mercury. The topics covered the review of the control and regulations of mercury in the US and internationally.
 
 **Instructor:** Prof. Noelle Selin
+
+
+

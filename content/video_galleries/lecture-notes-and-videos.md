@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: This section provides a selection of lecture notes and class videos from
+  the course.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection
@@ -18,15 +20,15 @@ videos:
 
 A selection of lecture notes and class videos are provided as follows:
 
-[Lecture 1: Introduction to Green Supply Chain Management (PDF - 1.8MB)]({{< baseurl >}}/resources/mitesd_s43s14_lecture1)
+{{% resource_link 286574e7-e1c5-4d0d-d964-811b176d94db "Lecture 1: Introduction to Green Supply Chain Management (PDF - 1.8MB)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 4: Carbon Footprinting (PDF - 2.0MB)]({{< baseurl >}}/resources/mitesd_s43s14_lecture4)
+{{% resource_link fbbfd211-bd01-c8b4-dd70-232deb8209eb "Lecture 4: Carbon Footprinting (PDF - 2.0MB)" %}}
 
-[Lecture 5: Life Cycle Analysis (PDF - 1.5MB)]({{< baseurl >}}/resources/mitesd_s43s14_lecture5)
+{{% resource_link cadc0bd1-6748-7da4-2562-911e2ce5beb6 "Lecture 5: Life Cycle Analysis (PDF - 1.5MB)" %}}
 
-[Lecture 7: Multi-stakeholder Engagements (PDF)]({{< baseurl >}}/resources/mitesd_s43s14_lecture7)
+{{% resource_link 9c5bd434-123e-06d2-8a06-f555cbe79108 "Lecture 7: Multi-stakeholder Engagements (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 9: International Regulations and Supply Chains: The Case of Mercury (PDF - 6.0MB)]({{< baseurl >}}/resources/mitesd_s43s14_lecture9)
+{{% resource_link f1aec9df-7c5b-1333-873e-87a9953f5def "Lecture 9: International Regulations and Supply Chains: The Case of Mercury (PDF - 6.0MB)" %}}
 
 {{< video-gallery "5b59a8f9-cd1d-fd8b-0446-00eaae7b3fbb" >}}
 

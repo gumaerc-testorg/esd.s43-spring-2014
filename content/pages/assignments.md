@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides descriptions of the course assignments along with
+  supporting files.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -31,7 +33,7 @@ Homework 1: Reverse Logistics
 
 Reverse Logistics Paper Questions:
 
-Based on Reading 1 in [Required Readings]({{< baseurl >}}/pages/readings), please answer the following three questions (no more than 400 words):
+Based on Reading 1 in {{% resource_link 6e72c902-52cf-7de8-2298-6b75befbd9af "Required Readings" %}}, please answer the following three questions (no more than 400 words):
 
 1.  Why is packaging reduction (in Figure 1) considered a green logistics activity and not a reverse logistics activity? Please add one more example of a "green supply chain management" activity that will not be considered a "reverse logistics" activity.
 2.  For each of the strategic reasons of returns (see Table 4) select one of the five products used during the class discussion (soda can, jackets, laptop, hybrid car, batteries) that you think will illustrate the reason best. Explain why.
@@ -46,7 +48,7 @@ Based on Reading 1 in [Required Readings]({{< baseurl >}}/pages/readings), pleas
 Homework 2: ReCellular Case
 {{< tdclose >}}
 {{< tdopen >}}
-Read Reading 2 in [Required Readings]({{< baseurl >}}/pages/readings), and answer the following pre-session questions:
+Read Reading 2 in {{% resource_link 6e72c902-52cf-7de8-2298-6b75befbd9af "Required Readings" %}}, and answer the following pre-session questions:
 
 1.  In less than 200 words, what are the main differences and similarities between **Genco** (as presented in class by the invited speaker) and ReCellular (as described in the case study)?
 2.  In less than 200 words, do you think the ReCellular business model is viable in the long-term? Why?
@@ -62,7 +64,7 @@ Homework 3: Whirlpool Case
 {{< tdopen >}}
 
 
-Read Reading 3 in [Required Readings]({{< baseurl >}}/pages/readings), and answer the following pre-session questions:
+Read Reading 3 in {{% resource_link 6e72c902-52cf-7de8-2298-6b75befbd9af "Required Readings" %}}, and answer the following pre-session questions:
 
 Using the information of the "Whirlpool Corporation: Reverse Logistics" Case Study answer the following questions:
 
@@ -79,7 +81,7 @@ Using the information of the "Whirlpool Corporation: Reverse Logistics" Case Stu
 Homework 4: WidgetCo Carbon Footprinting
 {{< tdclose >}}
 {{< tdopen >}}
-Please read Reading 4 in [Required Readings]({{< baseurl >}}/pages/readings) in submit your filled out [Excel worksheet]({{< baseurl >}}/resources/mitesd_s43s14_4_sc_carbon) (the cells highlighted in blue) along with a brief (1–2 pages) response to the questions in the case study.
+Please read Reading 4 in {{% resource_link 6e72c902-52cf-7de8-2298-6b75befbd9af "Required Readings" %}} in submit your filled out {{% resource_link 2bd4400d-f52d-d22a-7f89-ad2f0b6462f9 "Excel worksheet" %}} (the cells highlighted in blue) along with a brief (1–2 pages) response to the questions in the case study.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,7 +94,7 @@ Homework 5: Life Cycle Assessment (LCA)
 
 LCA review:
 
-Please read the posted LCA study (see Reading 5 in [Required Readings]({{< baseurl >}}/pages/readings)) and submit a 1–2 page document that answers the following questions.
+Please read the posted LCA study (see Reading 5 in {{% resource_link 6e72c902-52cf-7de8-2298-6b75befbd9af "Required Readings" %}}) and submit a 1–2 page document that answers the following questions.
 
 1.  What are two assumptions or omissions of the Hand Drying Systems LCA that could bias the study results? Justify your answer and, if possible, estimate the impact on the study results.
 2.  If you were the manufacturer of the **Xlerator** hand drying system, what would be your response to this study?
@@ -108,7 +110,7 @@ Homework 6: Palm Oil Case Study
 {{< tdopen >}}
 
 
-[Palm Oil Case Study Assignment (PDF)]({{< baseurl >}}/resources/mitesd_s43s14_6_hw)
+{{% resource_link 39d08640-7c9d-1afc-f1b9-e656c8ee104b "Palm Oil Case Study Assignment (PDF)" %}}
 
 
 {{< tdclose >}}

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/esd-s43-green-supply-chain-management-spring-2014/f3eafed1b839ac29d634664b79abcf46_HMM2PKQ-VDQ.pdf
+file: /courses/esd-s43-green-supply-chain-management-spring-2014/f3eafed1b839ac29d634664b79abcf46_HMM2PKQ-VDQ.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

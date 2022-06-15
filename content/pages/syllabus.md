@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, prerequisites,
+  grading, and the schedule of course topics and assignments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -118,7 +120,7 @@ Invited Speaker: Gregor Thompson (GENCO)
 
 Final project assignments
 
-Homework 1 (see [Assignments]({{< baseurl >}}/pages/assignments))
+Homework 1 (see {{% resource_link 38b73bdf-750a-02ca-9ebb-966719746971 "Assignments" %}})
 
 
 {{< tdclose >}}
@@ -136,7 +138,7 @@ Reverse Logistics / Closing the Loop
 
 Project Deliverable 1
 
-Homework 2 and Homework 3 (see [Assignments]({{< baseurl >}}/pages/assignments))
+Homework 2 and Homework 3 (see {{% resource_link 38b73bdf-750a-02ca-9ebb-966719746971 "Assignments" %}})
 
 
 {{< tdclose >}}
@@ -150,7 +152,7 @@ Homework 2 and Homework 3 (see [Assignments]({{< baseurl >}}/pages/assignments))
 Carbon Footprinting (A. Craig)
 {{< tdclose >}}
 {{< tdopen >}}
-Homework 4 (see [Assignments]({{< baseurl >}}/pages/assignments))
+Homework 4 (see {{% resource_link 38b73bdf-750a-02ca-9ebb-966719746971 "Assignments" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,7 +164,7 @@ Homework 4 (see [Assignments]({{< baseurl >}}/pages/assignments))
 Life Cycle Analysis (A. Craig)
 {{< tdclose >}}
 {{< tdopen >}}
-Homework 5 (see [Assignments]({{< baseurl >}}/pages/assignments))
+Homework 5 (see {{% resource_link 38b73bdf-750a-02ca-9ebb-966719746971 "Assignments" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -186,7 +188,7 @@ Project Deliverable 2
 Multi-stakeholder engagements (A. Bateman)
 {{< tdclose >}}
 {{< tdopen >}}
-Homework 6 (see [Assignments]({{< baseurl >}}/pages/assignments))
+Homework 6 (see {{% resource_link 38b73bdf-750a-02ca-9ebb-966719746971 "Assignments" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

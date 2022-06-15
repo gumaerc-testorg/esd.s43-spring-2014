@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides citations and links to the list of required readings
+  for the course and the schedule of suggested pre-readings by lecture topic.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -13,10 +15,10 @@ Required Readings
 1.  Rogers, Dale S., and Ronald Tibben‐Lembke. "[An Examination of Reverse Logistics Practices](http://dx.doi.org/10.1002/j.2158-1592.2001.tb00007.x)." _Journal of Business Logistics_ 22, no. 2 (2001): 129–48.
 2.  Guide, V., Kumar Neeraj, et al. "[Cellular Telephone Reuse: The ReCellular Inc. Case](http://dx.doi.org/10.1007/3-540-27251-8_14)." _Managing Closed-Loop Supply Chains_. Case: Part 6, (2005): 151–56.
 3.  Mark, K. "[Whirlpool Corporation: Reverse Logistics](https://www.iveycases.com/ProductView.aspx?id=51404)." Richard Ivey School of Business. Case: 9B11D001, August 8, 2011.
-4.  Blanco, E., and E. Olivetti. [_WidgetCo–Carbon Footprint Case Study_ (PDF)]({{< baseurl >}}/resources/mitesd_s43s14_case_study). MIT (Courtesy of MIT Center for Transportation and Logistics and MIT Materials Systems Laboratory. Used with permission.)
+4.  Blanco, E., and E. Olivetti. {{% resource_link 19e9342c-69cb-b506-85f6-021f1c2fb733 "_WidgetCo–Carbon Footprint Case Study_ (PDF)" %}}. MIT (Courtesy of MIT Center for Transportation and Logistics and MIT Materials Systems Laboratory. Used with permission.)
     *   "[Greenhouse Gas Protocol Corporate Standard, by World Resources Institute and World Business Council for Sustainable Development, March 2014](http://www.ghgprotocol.org/standards/corporate-standard)." 2012, MIT.
-5.  ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Life Cycle Assessment of Hand Drying Systems." (PDF - 1.3MB)](http://environmental-management.ca/lca/LCA_MIT_Hand-Dryers_2011.pdf) Material Systems Laboratory, MIT, 2011.
-6.  ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Guide to PAS 2050:2011 (Annex B through G)." (PDF - 2.9MB)](http://www.isa.utl.pt/der/ASAmb/Documentos2012/PAS2050-Guide_2011.pdf) British Standards, 2011.
+5.  ["Life Cycle Assessment of Hand Drying Systems." (PDF - 1.3MB)](http://environmental-management.ca/lca/LCA_MIT_Hand-Dryers_2011.pdf) Material Systems Laboratory, MIT, 2011.
+6.  ["The Guide to PAS 2050:2011 (Annex B through G)." (PDF - 2.9MB)](http://www.isa.utl.pt/der/ASAmb/Documentos2012/PAS2050-Guide_2011.pdf) British Standards, 2011.
 7.  [Golden Agri Resources and Sustainability Case Study](http://som.yale.edu/our-approach/teaching-method/case-research-and-development/cases-directory/golden-agri-resources-and). _Global Network for Advanced Management_. Yale School of Management and National University of Singapore Business School. March, 2013.
 8.  Atasu, A., and L. Van Wassenhove. [_Getting to Grips With Take-Back Laws_](http://www.ieseinsight.com/doc.aspx?id=1213). IESE Insight, 2011.
 9.  Green SCM Book. [MIT Center for Transportation & Logistics](http://ctl.mit.edu/). Draft Manuscript.

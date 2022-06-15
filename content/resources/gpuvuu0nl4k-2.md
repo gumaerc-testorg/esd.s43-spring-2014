@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/esd-s43-green-supply-chain-management-spring-2014/ac0cceb3a11b5c58b7858ffb98035ac3_gpuvUU0Nl4k.vtt
+file: /courses/esd-s43-green-supply-chain-management-spring-2014/ac0cceb3a11b5c58b7858ffb98035ac3_gpuvUU0Nl4k.vtt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile
