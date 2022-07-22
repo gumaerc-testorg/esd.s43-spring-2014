@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Lecture 9: International Regulations and Supply Chains: The Case
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Professor Noelle Selin from MIT was invited talk on the case-study of mercury. The topics covered the review of the control and regulations of mercury in the US and internationally.
 
 **Instructor:** Prof. Noelle Selin
-
-
 

@@ -5,6 +5,7 @@ file: /courses/esd-s43-green-supply-chain-management-spring-2014/19e9342c69cbb50
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: WidgetCo - Carbon Footprint Case Study
 uid: 19e9342c-69cb-b506-85f6-021f1c2fb733
 ---
 This is a resource file that contains information regarding case study.
-

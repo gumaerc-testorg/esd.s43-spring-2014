@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Lecture 4: Carbon Footprinting (PDF - 2.0MB)](/courses/esd-s43-green-supply-chain-management-spring-2014/resources/mitesd_s43s14_lecture4)'
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Students discussed a case study on carbon footprinting, "Widget Co," and understand the basic framing tool, the mechanism, as well as the underlying issues.
 
 **Instructor:** Prof. Anthony Craig
-
-
 

@@ -6,6 +6,7 @@ file: /courses/esd-s43-green-supply-chain-management-spring-2014/39d086407c9d1af
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Homework 6
 uid: 39d08640-7c9d-1afc-f1b9-e656c8ee104b
 ---
 This is a resource file that contains information regarding homework 6.
-

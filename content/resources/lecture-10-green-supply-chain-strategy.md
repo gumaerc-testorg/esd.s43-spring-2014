@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Student discussed a case study focused on the corporate social responsibility. Also, the instructor emphasized the importance of the life cycle assessment and introduced the five steps to develop a sound Green Supply Chain Management strategy.
 
 **Instructor:** Dr. Edgar Blanco
-
-
 
