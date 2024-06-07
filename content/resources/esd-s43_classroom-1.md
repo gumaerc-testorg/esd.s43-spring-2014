@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/esd-s43-green-supply-chain-management-spring-2014/ca3c0f01598712a48bfce57472554dd3_ESD-S43_classroom-1.jpg
+file_size: 60693
 file_type: image/jpeg
 image_metadata:
   caption: ''
