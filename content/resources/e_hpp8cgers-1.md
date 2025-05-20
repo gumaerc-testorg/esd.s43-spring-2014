@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/esd-s43-green-supply-chain-management-spring-2014/1b9d62869ccc2718ae3a33d79ef25b88_e_Hpp8cgeRs.pdf
+file: /courses/esd-s43-green-supply-chain-management-spring-2014/1b9d62869ccc2718ae3a33d79ef25b88_e_Hpp8cgeRs.pdf
 file_size: 107156
 file_type: application/pdf
 learning_resource_types: []

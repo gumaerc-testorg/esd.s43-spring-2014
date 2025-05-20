@@ -6,7 +6,7 @@ description: Environmental NGO, Greenpeace, acted on a protest against Nestle ov
   responsibilities. Through the course, students discover fundamental strategies and
   study the tools and techniques to analyze and design environmentally sustainable
   supply chain systems. Image courtesy of Philip Reynolds. Used with permission.
-file: /ol-ocw-studio-app/courses/esd-s43-green-supply-chain-management-spring-2014/9e1606ae077c270fb7f1f10d3d23d366_esd-s43s14.jpg
+file: /courses/esd-s43-green-supply-chain-management-spring-2014/9e1606ae077c270fb7f1f10d3d23d366_esd-s43s14.jpg
 file_size: 70523
 file_type: image/jpeg
 image_metadata:
