@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding case study.
-file: /ol-ocw-studio-app/courses/esd-s43-green-supply-chain-management-spring-2014/19e9342c69cbb50685f6021f1c2fb733_MITESD_S43S14_Case_Study.pdf
+file: /courses/esd-s43-green-supply-chain-management-spring-2014/19e9342c69cbb50685f6021f1c2fb733_MITESD_S43S14_Case_Study.pdf
 file_size: 192313
 file_type: application/pdf
 learning_resource_types:
