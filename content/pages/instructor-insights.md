@@ -65,7 +65,7 @@ I try to make it clear that students should come to me if they’re having probl
 
 ### Developing the Case Studies
 
-Students examine case studies in this class. These case studies reflect over five years of research completed here at the [MIT Center for Transportation & Logistics](http://ctl.mit.edu/). As part of this research, we worked with many companies. I had the opportunity to meet with leaders from these companies who were trying to implement sustainability initiatives. I learned first-hand about the struggles they encountered in this area.
+Students examine case studies in this class. These case studies reflect over five years of research completed here at the {{% resource_link "bb50a19c-d278-4c20-9570-61be33e45e90" "MIT Center for Transportation & Logistics" %}}. As part of this research, we worked with many companies. I had the opportunity to meet with leaders from these companies who were trying to implement sustainability initiatives. I learned first-hand about the struggles they encountered in this area.
 
 I built the case studies—and the course—around these technical, strategical, and tactical challenges. Our hope is that the case studies will expose students to the dilemmas they will encounter in their professional environments.
 
@@ -89,7 +89,7 @@ Permission of instructor. Graduate level courses in operations management, logis
 
 ### Requirements Satisfied
 
-ESD.S43 can be applied toward a [MIT Sloan School of Management Sustainability Certificate](http://mitsloan.mit.edu/sustainability/courses).
+ESD.S43 can be applied toward a {{% resource_link "74c9827a-c855-4e04-941d-746e362f3089" "MIT Sloan School of Management Sustainability Certificate" %}}.
 
 ### Offered
 
